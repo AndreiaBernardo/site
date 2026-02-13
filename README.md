@@ -1,3 +1,8 @@
+
+![imagem](./public/images/Capturar.PNG)
+
+
+
 # utenkHome
 
 Um site moderno e responsivo para apresentar utensílios de casa, com foco em modernidade, sofisticação e segurança para o lar.
